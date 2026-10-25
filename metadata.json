@@ -1,0 +1,6 @@
+{
+  "name": "Q-Less Clinic: Smart Healthcare Queue & Triage",
+  "description": "Private clinic smart queuing and triage system with bundled R50 booking, patient records, doctor & reception dashboards, AES-256 encrypted health data, and Gemini-powered personal clinic AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
